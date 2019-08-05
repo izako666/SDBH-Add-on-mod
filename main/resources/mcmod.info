@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dbhmod",
+  "name": "SDBH Add-on mod",
+  "description": "A mod for my favorite minecraft server.",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": "izako",
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
